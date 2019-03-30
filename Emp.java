@@ -8,6 +8,8 @@ public class Emp implements Serializable{
     public static void main(String[] args){
         Emp emp=new Emp();
         System.out.println("this is master");
+        System.out.println("this is zcs");
+        emp.age-=1;
     }
 
 }
