@@ -7,9 +7,11 @@ public class Emp implements Serializable{
     private Double comm;
     public static void main(String[] args){
         Emp emp=new Emp();
+        emp.age+=1;
         System.out.println("this is master");
         System.out.println("this is zcs");
         emp.age-=1;
+        System.out.println("this is brh");
     }
 
 }
