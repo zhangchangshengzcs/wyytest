@@ -5,4 +5,9 @@ public class Emp implements Serializable{
     private String name;
     private Double sal;
     private Double comm;
+    public static void main(String[] args){
+        Emp emp=new Emp();
+        System.out.println("this is master");
+    }
+
 }
