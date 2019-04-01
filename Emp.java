@@ -12,6 +12,7 @@ public class Emp implements Serializable{
         System.out.println("this is zcs");
         emp.age-=1;
         System.out.println("this is brh");
+        System.out.println("这是修改");
     }
 
 }
