@@ -1,0 +1,13 @@
+diff --git a/Emp.java b/Emp.java
+index 916aa12..d0ad899 100644
+--- a/Emp.java
++++ b/Emp.java
+@@ -15,6 +15,7 @@ public class Emp implements Serializable{
+         System.out.println("这是修改");
+         System.out.println("这是brh的修改");
+         System.out.println("brh未完成修改");
++        System.out.println("这是cbrh的修改");
+     }
+ 
+ }
+\ No newline at end of file
