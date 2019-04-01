@@ -15,6 +15,7 @@ public class Emp implements Serializable{
         System.out.println("这是修改");
         System.out.println("这是brh的修改");
         System.out.println("brh未完成修改");
+        System.out.println("这是cbrh的修改");
     }
 
 }
